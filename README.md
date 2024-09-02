@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm xms 👋
 
-<!--
-**xms312/xms312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>I code with</h2>
+<p>
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" />
+</p>
