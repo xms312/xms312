@@ -1,7 +1,7 @@
 # Hi there, I'm xms 👋
 
 <div align="center">
-  <img width="100%" src="https://github.com/oussamabouchikhi/xms312/blob/master/assets/like.jpg" alt="cover" />
+  <img width="100%" src="./assets/like.jpg" alt="cover" />
 </div>
 
 
